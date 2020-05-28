@@ -95,5 +95,26 @@
   <ItemGroup>
     <None Include="Resources\backgroundAuth_1135x757.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mainmap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mainmap1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mainBackground-1980.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\demoAmblem-120.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\demoAmblem-125.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\demoFlag-125x83.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menuBackground-295x469.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

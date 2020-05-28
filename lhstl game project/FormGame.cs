@@ -17,5 +17,10 @@ namespace lhstl_game_project
             InitializeComponent();
             this.WindowState = FormWindowState.Maximized;
         }
+
+        private void FormGame_Load(object sender, EventArgs e)
+        {
+            //pictureMap.Parent = this;
+        }
     }
 }
