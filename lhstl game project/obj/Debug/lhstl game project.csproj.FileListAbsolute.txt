@@ -1,0 +1,11 @@
+E:\Учеба\LHSTL corp\lhstl game project\lhstl game project\lhstl game project\bin\Debug\lhstl game project.exe.config
+E:\Учеба\LHSTL corp\lhstl game project\lhstl game project\lhstl game project\bin\Debug\lhstl game project.exe
+E:\Учеба\LHSTL corp\lhstl game project\lhstl game project\lhstl game project\bin\Debug\lhstl game project.pdb
+E:\Учеба\LHSTL corp\lhstl game project\lhstl game project\lhstl game project\obj\Debug\lhstl game project.csprojAssemblyReference.cache
+E:\Учеба\LHSTL corp\lhstl game project\lhstl game project\lhstl game project\obj\Debug\lhstl_game_project.Form1.resources
+E:\Учеба\LHSTL corp\lhstl game project\lhstl game project\lhstl game project\obj\Debug\lhstl_game_project.Properties.Resources.resources
+E:\Учеба\LHSTL corp\lhstl game project\lhstl game project\lhstl game project\obj\Debug\lhstl game project.csproj.GenerateResource.cache
+E:\Учеба\LHSTL corp\lhstl game project\lhstl game project\lhstl game project\obj\Debug\lhstl game project.csproj.CoreCompileInputs.cache
+E:\Учеба\LHSTL corp\lhstl game project\lhstl game project\lhstl game project\obj\Debug\lhstl game project.exe
+E:\Учеба\LHSTL corp\lhstl game project\lhstl game project\lhstl game project\obj\Debug\lhstl game project.pdb
+E:\Учеба\LHSTL corp\lhstl game project\lhstl game project\lhstl game project\obj\Debug\lhstl_game_project.FormGame.resources
