@@ -116,5 +116,23 @@
   <ItemGroup>
     <None Include="Resources\menuBackground-295x469.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\demoMenuState-125.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\demoMenuOrder-125.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\demoMenuArmy-125.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\demoMenuProd-125.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\demoMenuMail-125.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\demoMenuChurch-125.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

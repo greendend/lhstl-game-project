@@ -113,6 +113,66 @@ namespace lhstl_game_project.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap demoMenuArmy_125 {
+            get {
+                object obj = ResourceManager.GetObject("demoMenuArmy-125", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap demoMenuChurch_125 {
+            get {
+                object obj = ResourceManager.GetObject("demoMenuChurch-125", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap demoMenuMail_125 {
+            get {
+                object obj = ResourceManager.GetObject("demoMenuMail-125", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap demoMenuOrder_125 {
+            get {
+                object obj = ResourceManager.GetObject("demoMenuOrder-125", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap demoMenuProd_125 {
+            get {
+                object obj = ResourceManager.GetObject("demoMenuProd-125", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap demoMenuState_125 {
+            get {
+                object obj = ResourceManager.GetObject("demoMenuState-125", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap mainBackground_1980 {
             get {
                 object obj = ResourceManager.GetObject("mainBackground-1980", resourceCulture);

@@ -160,7 +160,7 @@
             // pictureBox3
             // 
             this.pictureBox3.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox3.BackgroundImage = global::lhstl_game_project.Properties.Resources.demoAmblem_125;
+            this.pictureBox3.BackgroundImage = global::lhstl_game_project.Properties.Resources.demoMenuMail_125;
             this.pictureBox3.Location = new System.Drawing.Point(30, 657);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(125, 125);
@@ -170,7 +170,7 @@
             // pictureBox4
             // 
             this.pictureBox4.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox4.BackgroundImage = global::lhstl_game_project.Properties.Resources.demoAmblem_125;
+            this.pictureBox4.BackgroundImage = global::lhstl_game_project.Properties.Resources.demoMenuChurch_125;
             this.pictureBox4.Location = new System.Drawing.Point(161, 657);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(125, 125);
@@ -180,7 +180,7 @@
             // pictureBox5
             // 
             this.pictureBox5.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox5.BackgroundImage = global::lhstl_game_project.Properties.Resources.demoAmblem_125;
+            this.pictureBox5.BackgroundImage = global::lhstl_game_project.Properties.Resources.demoMenuArmy_125;
             this.pictureBox5.Location = new System.Drawing.Point(30, 526);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(125, 125);
@@ -190,7 +190,7 @@
             // pictureBox6
             // 
             this.pictureBox6.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox6.BackgroundImage = global::lhstl_game_project.Properties.Resources.demoAmblem_125;
+            this.pictureBox6.BackgroundImage = global::lhstl_game_project.Properties.Resources.demoMenuProd_125;
             this.pictureBox6.Location = new System.Drawing.Point(161, 526);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(125, 125);
@@ -200,7 +200,7 @@
             // pictureBox7
             // 
             this.pictureBox7.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox7.BackgroundImage = global::lhstl_game_project.Properties.Resources.demoAmblem_125;
+            this.pictureBox7.BackgroundImage = global::lhstl_game_project.Properties.Resources.demoMenuState_125;
             this.pictureBox7.Location = new System.Drawing.Point(30, 395);
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(125, 125);
@@ -210,7 +210,7 @@
             // pictureBox8
             // 
             this.pictureBox8.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox8.BackgroundImage = global::lhstl_game_project.Properties.Resources.demoAmblem_125;
+            this.pictureBox8.BackgroundImage = global::lhstl_game_project.Properties.Resources.demoMenuOrder_125;
             this.pictureBox8.Location = new System.Drawing.Point(161, 395);
             this.pictureBox8.Name = "pictureBox8";
             this.pictureBox8.Size = new System.Drawing.Size(125, 125);
